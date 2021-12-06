@@ -34,7 +34,7 @@
     transition: all .3s;
 }
 .menu_button:hover {
-    color: black;
+    color: rgb(21, 48, 170);
     filter: drop-shadow(0 0 20px black);
 }
 .cart{
@@ -58,7 +58,7 @@
     transition: all .3s;
 }
 .button--primary:hover {
-    background-color: rgb(0, 36, 240);
+    background-color: rgb(223, 33, 33);
 }
 .best{
     padding: 5px 12px;
@@ -206,7 +206,7 @@
     transition: all .3s;
 }
 .product_metka:hover {
-    transform: translateY(-20px);
+    transform: translateY(-20px) scale(1.05);
 } 
 .product_metka_wide {
   max-width: 860px;
@@ -216,7 +216,7 @@
   transition: all .3s;
 }
 .product_metka_wide:hover {
-    transform: translateY(-20px);
+    transform: translateY(-20px) ;
 }
 .product_metka_small {
     max-width: 272px;
@@ -226,7 +226,7 @@
     transition: all .3s;
 }
 .product_metka_small:hover {
-    transform: translateY(-20px);
+    transform: translateY(-20px) scale(1.01);
 }
 .fashion-month {
     background-image: url(../img/fashionmonth.png);
@@ -252,7 +252,7 @@
 }
 
 .button_view:hover {
-    background-color: rgb(0, 36, 240);
+    background-color: rgb(223, 33, 33);
 }
 
 .micro_women{
